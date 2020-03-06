@@ -42,3 +42,7 @@ median(iris$Petal.Width)
 ```{r}
 hist(iris$Sepal.Length)
 ```
+
+```{r,echo=FALSE}
+plot(iris)
+```
